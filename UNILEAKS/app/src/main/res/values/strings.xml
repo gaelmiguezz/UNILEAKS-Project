@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">UNILEAKS</string>
+    <string name="open">Abrir</string>
+    <string name="close">Cerrar</string>
+    <string name="rules">
+        Reglas de la comunidad:\n
+            1. No Spam\n
+            2. No comentarios inapropiados ni insultos.\n
+            3. No subir contenido inapropiado, malicioso, etc…\n
+    </string>
+    <string name="inicio">Inicio</string>
+    <string name="forum">Foro</string>
+    <string name="chat">Chat</string>
+    <string name="resources">Recursos</string>
+    <string name="profile">Perfil</string>
+    <string name="logout">Salir</string>
+    <string name="community">Comunidad</string>
+    <string name="share">Compartir</string>
+    <string name="rate">¡Valóranos!</string>
+    <string name="user">Usuario</string>
+</resources>

@@ -9,6 +9,8 @@ import androidx.appcompat.app.AppCompatActivity;
 
 public class MainActivity extends AppCompatActivity {
 
+    //Hola
+
     private EditText usernameEditText;
     private DatabaseHelper databaseHelper;
     private EditText passwordEditText;
